@@ -1,6 +1,8 @@
+import os
+os.system('clear')
 import random
 import pyfiglet
-import sys
+import sys,os
 import time
 from colorama import Fore
 from time import sleep
